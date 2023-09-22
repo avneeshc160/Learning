@@ -1,8 +1,6 @@
-# Create a new directory for your DevOps Learning Platform
-mkdir DevOps-Learning-Platform
 
 # Navigate into the newly created directory
-cd DevOps-Learning-Platform
+cd Learning
 
 # Create subdirectories for the project structure
 mkdir css js img content
