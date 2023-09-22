@@ -1,6 +1,0 @@
-title: DevOps Learning Platform
-description: Learn DevOps through interactive tutorials and resources.
-theme: minima # You can change the theme as needed
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
